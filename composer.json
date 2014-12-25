@@ -1,0 +1,15 @@
+{
+    "name": "tuxboy/codetest",
+    "require": {
+        "michelf/php-markdown": "1.4.1"
+    },
+    "authors": [
+        {
+            "name": "benoit mallo",
+            "email": "benoit.mallo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {"controllers\\" : "application/controllers"}
+    }
+}
